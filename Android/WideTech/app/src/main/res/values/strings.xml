@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WideTech</string>
+    <string name="list_page_title">List of products</string>
+    <string name="list_row_page_name">Name</string>
+    <string name="list_row_page_description">Description</string>
+    <string name="login_page_title">Login</string>
+    <string name="login_radio_button_one_option">Existing</string>
+    <string name="login_radio_button_two_option">New</string>
+    <string name="login_input_email_hint">Email</string>
+    <string name="login_input_password_hint">Password</string>
+    <string name="login_input_confirm_password_hint">Confirm Password</string>
+    <string name="login_button_login">LOGIN</string>
+    <string name="login_text_or">---- Or ----</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+</resources>
