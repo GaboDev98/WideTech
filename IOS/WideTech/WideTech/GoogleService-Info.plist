@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1073919527687-bvoe4h93l1bu9o3gv6euv80slb68t63s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1073919527687-bvoe4h93l1bu9o3gv6euv80slb68t63s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9DSTHrlgSizIDmj7j5HwM6gx8cGIOJvo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1073919527687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gabodev.widetech</string>
+	<key>PROJECT_ID</key>
+	<string>widetech-a1dc5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>widetech-a1dc5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1073919527687:ios:4128c512c8b4e2d35493a2</string>
+	<key>DATABASE_URL</key>
+	<string>https://widetech-a1dc5.firebaseio.com</string>
+</dict>
+</plist>
