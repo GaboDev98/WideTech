@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073919527687",
+    "firebase_url": "https://widetech-a1dc5.firebaseio.com",
+    "project_id": "widetech-a1dc5",
+    "storage_bucket": "widetech-a1dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073919527687:android:d1635f41d4cf4fed5493a2",
+        "android_client_info": {
+          "package_name": "com.gabodev.widetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073919527687-831qk1og94pebahpn8pfqs1jtpg2s2jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5IFgVapUbaQT_ZYIsIWcj1olI0mF0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073919527687-831qk1og94pebahpn8pfqs1jtpg2s2jh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073919527687-bvoe4h93l1bu9o3gv6euv80slb68t63s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gabodev.widetech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_contact"
+        android:icon="@drawable/contact_white"
+        android:title="@string/list_menu_contact_us" />
+</menu>

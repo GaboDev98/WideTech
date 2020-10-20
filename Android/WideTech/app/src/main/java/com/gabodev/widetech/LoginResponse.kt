@@ -4,6 +4,9 @@ import com.google.gson.annotations.SerializedName
 
 data class LoginResponse (
 
-    @SerializedName("ExpirationDate")
-    val expirationDate: Long?
+    @SerializedName("UserName")
+    val userName: String?,
+
+    @SerializedName("Password")
+    val password: String?
 )

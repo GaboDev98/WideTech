@@ -12,4 +12,9 @@
     <string name="login_button_login">LOGIN</string>
     <string name="login_text_or">---- Or ----</string>
     <string name="login_forgot_password">Forgot Password?</string>
+    <string name="list_menu_contact_us">Contact us</string>
+    <string name="google_maps_api_key">AIzaSyBM5BN1rUbC0DbpE81lMzawXCNZK6yJ6Bw</string>
+    <string name="facebook_application_id">820371882063802</string>
+    <string name="fb_login_protocol_scheme">fb820371882063802</string>
+    <string name="contact_us_btn_sen">Send</string>
 </resources>

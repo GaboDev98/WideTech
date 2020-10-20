@@ -160,26 +160,33 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageButton
-            android:id="@+id/imageButton"
+            android:id="@+id/facebookButton"
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:layout_marginStart="20dp"
             android:layout_marginTop="10dp"
-            android:layout_marginEnd="10dp"
+            android:layout_marginEnd="20dp"
             android:layout_marginBottom="50dp"
             android:background="@drawable/rounded_corners"
             android:src="@drawable/facebook" />
 
         <ImageButton
-            android:id="@+id/imageButton2"
+            android:id="@+id/googleButton"
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:layout_marginEnd="20dp"
             android:layout_marginBottom="50dp"
             android:background="@drawable/rounded_corners"
             android:src="@drawable/google" />
+
+        <ImageButton
+            android:id="@+id/contactButton"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/rounded_corners"
+            android:src="@drawable/contact_us" />
 
     </LinearLayout>
 
